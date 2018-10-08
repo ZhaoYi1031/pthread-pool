@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F012E772AF5B1BDBEED15F1F8EE8248A00BC9463",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "56AAF4823BA0BF975663E5040D824188405E30BB" : 9223372036854775807,
+    "F012E772AF5B1BDBEED15F1F8EE8248A00BC9463" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6616E7E4-1D8A-4536-A91F-63505B357DF0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "56AAF4823BA0BF975663E5040D824188405E30BB" : "",
+    "F012E772AF5B1BDBEED15F1F8EE8248A00BC9463" : "pthread-pool\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "producer-consumer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "producer-consumer\/producer-consumer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ZhaoYi1031\/MCM-2018.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56AAF4823BA0BF975663E5040D824188405E30BB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ZhaoYi1031\/pthread-pool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F012E772AF5B1BDBEED15F1F8EE8248A00BC9463"
+    }
+  ]
+}
